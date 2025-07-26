@@ -496,7 +496,7 @@ export function FinancialRootsQuiz() {
 
             <Button
               className="bg-[#1F4E45] hover:bg-[#1F4E45]/90 text-white"
-              onClick={() => window.open("https://www.oncehub.com/wealthsprout", "_blank")}
+              onClick={() => window.open("https://www.oncehub.com/wealthsprouts", "_blank")}
             >
               <Calendar className="mr-2 h-4 w-4" />
               Schedule Your Call

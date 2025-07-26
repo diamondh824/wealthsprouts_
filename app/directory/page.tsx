@@ -274,7 +274,7 @@ export default function Directory() {
             </Link>
             <Button
               className="bg-gradient-to-r from-[#1F4E45] to-[#A8C686] hover:from-[#A8C686] hover:to-[#1F4E45] text-white"
-              onClick={() => window.open("https://oncehub.com/wealthsprout", "_blank")}
+              onClick={() => window.open("https://oncehub.com/wealthsprouts", "_blank")}
             >
               Join Directory
             </Button>
@@ -445,7 +445,7 @@ export default function Directory() {
               </p>
               <Button
                 className="bg-[#EB8A7E] hover:bg-[#EB8A7E]/90 text-white px-8 py-3"
-                onClick={() => window.open("https://oncehub.com/wealthsprout", "_blank")}
+                onClick={() => window.open("https://oncehub.com/wealthsprouts", "_blank")}
               >
                 Join Directory
               </Button>

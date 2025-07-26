@@ -79,7 +79,7 @@ Message: ${formData.message}
               Directory
             </Link>
             <Button
-              onClick={() => window.open("https://oncehub.com/wealthsprout", "_blank")}
+              onClick={() => window.open("https://oncehub.com/wealthsprouts", "_blank")}
               className="bg-gradient-to-r from-[#1F4E45] to-[#A8C686] hover:from-[#A8C686] hover:to-[#1F4E45] text-white"
             >
               Book a Workshop
@@ -111,7 +111,7 @@ Message: ${formData.message}
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
                 <Button
-                  onClick={() => window.open("https://oncehub.com/wealthsprout", "_blank")}
+                  onClick={() => window.open("https://oncehub.com/wealthsprouts", "_blank")}
                   size="lg"
                   className="bg-white text-[#1F4E45] hover:bg-gray-100 px-8 py-4 text-lg font-bold transform hover:scale-105 transition-all duration-200"
                 >
@@ -199,7 +199,7 @@ Message: ${formData.message}
                     </div>
 
                     <Button
-                      onClick={() => window.open("https://oncehub.com/wealthsprout", "_blank")}
+                      onClick={() => window.open("https://oncehub.com/wealthsprouts", "_blank")}
                       className="bg-[#1F4E45] hover:bg-[#1F4E45]/90 text-white"
                     >
                       Learn More
@@ -288,7 +288,7 @@ Message: ${formData.message}
                     <div className="flex justify-between items-center">
                       <div className="text-2xl font-bold text-[#1F4E45]">{workshop.price}</div>
                       <Button
-                        onClick={() => window.open("https://oncehub.com/wealthsprout", "_blank")}
+                        onClick={() => window.open("https://oncehub.com/wealthsprouts", "_blank")}
                         className="bg-[#A8C686] hover:bg-[#A8C686]/90 text-white"
                       >
                         Book Workshop
@@ -386,7 +386,7 @@ Message: ${formData.message}
                     </ul>
 
                     <Button
-                      onClick={() => window.open("https://oncehub.com/wealthsprout", "_blank")}
+                      onClick={() => window.open("https://oncehub.com/wealthsprouts", "_blank")}
                       className={`w-full ${package_.buttonColor} hover:opacity-90 text-white`}
                     >
                       Get Started

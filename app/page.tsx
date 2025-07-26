@@ -365,7 +365,7 @@ export default function WealthSproutV4() {
                   </div>
                   <Button
                     className="w-full bg-[#1F4E45] hover:bg-[#1F4E45]/90 text-white"
-                    onClick={() => window.open("https://www.oncehub.com/wealthsprout", "_blank")}
+                    onClick={() => window.open("https://www.oncehub.com/wealthsprouts", "_blank")}
                   >
                     Schedule Your Call
                   </Button>

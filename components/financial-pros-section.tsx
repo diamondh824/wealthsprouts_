@@ -60,7 +60,7 @@ export function FinancialProsSection() {
           <Button
             size="lg"
             className="bg-white text-[#1F4E45] hover:bg-gray-100 px-8 py-4 text-lg font-bold transform hover:scale-105 transition-all duration-200 mb-12"
-            onClick={() => window.open("https://oncehub.com/wealthsprout", "_blank")}
+            onClick={() => window.open("https://oncehub.com/wealthsprouts", "_blank")}
           >
             Apply to Join the Pro Directory
           </Button>
